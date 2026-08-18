@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="css/contact.css" />
+  </head>
+  <body>
+    <header>
+      <nav aria-label="navigation">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="contact">
+        <h1>Contact Details</h1>
+        <div class="soical-media">
+          <h2>Connect with me</h2>
+          <a href="https://x.com/abhijithvr45204" target="_blank">Twitter</a>
+          <a href="https://www.linkedin.com/in/abhijithvr45204/" target="_blank"
+            >LinkedIn</a
+          >
+          <a href="https://github.com/abhijithvr45204-blip" target="_blank"
+            >Github</a
+          >
+        </div>
+        <form action="/contact.html" method="post">
+          <fieldset>
+            <legend>Fill these form with your contact details</legend>
+            <label for="name">Name:</label>
+            <input type="text" name="name" id="name" required />
+            <br />
+            <label for="contact_info">Contact:</label>
+            <input
+              type="email"
+              name="contact_info"
+              id="contact_info"
+              required
+            />
+            <br />
+          </fieldset>
+          <fieldset>
+            <legend>Details of Services you want</legend>
+            <label for="service">Services:</label>
+            <select name="service" id="service">
+              <option value="0" selected>Select a service</option>
+              <option value="1">Web Development</option>
+              <option value="2">Web Design</option>
+              <option value="3">3D Design</option>
+              <option value="4">Game Development</option>
+            </select>
+            <br />
+            <label>Time Limit:</label>
+
+            <input type="radio" id="yes" name="time_limit" value="Yes" />
+            <label for="yes">Yes</label>
+
+            <input type="radio" id="no" name="time_limit" value="No" />
+            <label for="no">No</label>
+          </fieldset>
+          <br />
+
+          <label for="details">Additional info:</label>
+          <textarea name="details" id="details"></textarea>
+          <br />
+          <button type="submit">Send!</button>
+        </form>
+      </section>
+    </main>
+    <footer>
+      <p>© 2026 Abhijith V R</p>
+      <p>
+        <a href="https://github.com/abhijithvr45204-blip">GitHub</a> |
+        <a href="https://www.linkedin.com/in/abhijithvr45204/">LinkedIn</a> |
+        <a href="mailto:abhijithvr45204@gmail.com">abhijithvr45204@gmail.com</a>
+      </p>
+    </footer>
+  </body>
+</html>
