@@ -35,33 +35,7 @@ I enjoy combining **software development with cybersecurity** to understand not 
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### 💻 Programming & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,python,git,github" alt="Development technologies">
-</p>
-
-### 🔐 Cybersecurity
-
-- Cybersecurity fundamentals
-- Web application security
-- Vulnerability assessment
-- Security testing
-- Network security fundamentals
-- Secure coding practices
-- Security analysis
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,github" alt="Tools and platforms">
-</p>
-
----
-
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔹 Cybersecurity Projects
 
@@ -84,8 +58,6 @@ Web applications and development projects focused on creating functional, respon
 Practical software projects created to improve programming, problem-solving, backend development, and application architecture skills.
 
 **Technologies:** JavaScript • Python • Node.js • Git
-
-> 📌 More projects and source code are available in my GitHub repositories.
 
 ## 🎯 Current Focus
 
@@ -112,37 +84,6 @@ I'm currently focusing on improving my skills in:
 
 ---
 
-## 🌐 Portfolio
-
-Visit my portfolio to learn more about my work, skills, and projects:
-
-<p align="center">
-  <a href="index.php">
-    <strong>🌐 View My Portfolio</strong>
-  </a>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:abhijithvr45204@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/abhijithvr45204/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/abhijithvr45204-blip">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://x.com/abhijithvr45204">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-</p>
-
----
-
 ## 📫 Contact
 
 **Abhijith V R**
@@ -154,7 +95,3 @@ Visit my portfolio to learn more about my work, skills, and projects:
 🌐 **Portfolio:** [View Portfolio](index.php)
 
 ---
-
-<p align="center">
-  <i>🔐 Security-minded. 💻 Developer-focused. 🚀 Always learning.</i>
-</p>
