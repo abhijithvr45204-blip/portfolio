@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Abhijith V R
-
 <p align="center">
   <img src="assets/image/profile.jpeg" alt="Abhijith V R" width="180" height="180">
 </p>
