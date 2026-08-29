@@ -1,4 +1,4 @@
-  Abhijith V R - Business Card    
+  Abhijith V R   
 
 ![Portrait of Abhijith V R](assets/image/profile.jpeg)
 
