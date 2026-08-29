@@ -1,0 +1,25 @@
+:root {
+  --background: #233142;
+
+  --foreground: #455d7a;
+
+  --accent: #f95959;
+
+  --text: #e3e3e3;
+}
+
+* {
+  background-color: var(--background);
+  color: var(--text);
+}
+
+header,
+main,
+footer {
+  background-color: var(--foreground);
+}
+
+img {
+  height: 20vh;
+  width: 20vw;
+}
