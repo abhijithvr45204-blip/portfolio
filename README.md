@@ -13,5 +13,3 @@
   <a href="https://github.com/abhijithvr45204-blip">💻 GitHub</a> •
   <a href="https://x.com/abhijithvr45204">X</a>
 </p>
-
----
