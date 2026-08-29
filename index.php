@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Abhijith V R - Home Page</title>
+  <meta
+    name="description"
+    content="Portfolio of Abhijith V R, Computer Science Engineer, Web Developer, Linux Enthusiast and Cybersecurity Learner." />
+  <meta name="author" content="Abhijith V R" />
+  <link rel="stylesheet" href="css/index.css" />
+  <link rel="icon" href="assets/image/favicon.ico" />
+</head>
+
+<body>
+  <header>
+    <nav aria-label="navigation" id="navbar">
+      <ul>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="contact.php">Connect with me</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="hero">
+      <h1>Hi! Welcome <strong>Dear Traveller!</strong></h1>
+
+      <div>
+        <img src="assets/image/profile.jpeg" alt="Profile Image" />
+        <p>I'm Abhijith V R.</p>
+      </div>
+    </section>
+
+    <section id="about">
+      <div>
+        <h2>Computer Science Engineer • Linux Enthusiast</h2>
+
+        <p>
+          I am a Computer Science Engineer passionate about building modern
+          web applications, exploring cybersecurity, creating 3D models, and
+          working with Linux-based systems. I enjoy learning new technologies
+          and solving real-world problems.
+        </p>
+      </div>
+
+      <div>
+        <a href="assets/resume.pdf" download>Download Resume</a>
+      </div>
+    </section>
+
+    <section id="moreinfo">
+      <a href="projects.php" target="_blank">Projects</a>
+      <a href="contact.php" target="_blank">Contact me</a>
+    </section>
+  </main>
+
+  <footer id="bottom">
+    <p>© 2026 Abhijith V R</p>
+
+    <p>
+      <a href="https://github.com/abhijithvr45204-blip">GitHub</a>
+      |
+      <a href="https://www.linkedin.com/in/abhijithvr45204/">LinkedIn</a>
+      |
+      <a href="mailto:abhijithvr45204@gmail.com">
+        abhijithvr45204@gmail.com
+      </a>
+    </p>
+  </footer>
+</body>
+
+</html>

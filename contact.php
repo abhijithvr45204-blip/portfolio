@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Abhijith V R - Contact</title>
+
+  <meta
+    name="description"
+    content="Get in touch with Abhijith V R for web development, web design, 3D design, and game development." />
+  <meta name="author" content="Abhijith V R" />
+
+  <link rel="stylesheet" href="css/index.css" />
+  <link rel="icon" href="assets/image/favicon.ico" />
+</head>
+
+<body>
+  <header>
+    <nav aria-label="Main navigation">
+      <ul>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="projects.php">Projects</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="contact">
+    <section class="contact-header">
+      <h1>Contact Me</h1>
+      <p>
+        Interested in working together? Feel free to connect with me or send a
+        message using the form below.
+      </p>
+    </section>
+
+    <section class="social-media" aria-labelledby="social-heading">
+      <h2 id="social-heading">Connect with me</h2>
+
+      <div class="social-links">
+        <a
+          href="https://x.com/abhijithvr45204"
+          target="_blank"
+          rel="noopener noreferrer">
+          X / Twitter
+        </a>
+
+        <a
+          href="https://www.linkedin.com/in/abhijithvr45204/"
+          target="_blank"
+          rel="noopener noreferrer">
+          LinkedIn
+        </a>
+
+        <a
+          href="https://github.com/abhijithvr45204-blip"
+          target="_blank"
+          rel="noopener noreferrer">
+          GitHub
+        </a>
+      </div>
+    </section>
+
+    <section class="contact-form" aria-labelledby="form-heading">
+      <h2 id="form-heading">Tell me about your project</h2>
+
+      <form action="/contact.php" method="post">
+        <fieldset>
+          <legend>Your contact details</legend>
+
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input
+              type="text"
+              name="name"
+              id="name"
+              autocomplete="name"
+              required />
+          </div>
+
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input
+              type="email"
+              name="email"
+              id="email"
+              autocomplete="email"
+              required />
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Project details</legend>
+
+          <div class="form-group">
+            <label for="service">Service</label>
+
+            <select name="service" id="service" required>
+              <option value="" selected disabled>Select a service</option>
+              <option value="web-development">Web Development</option>
+              <option value="web-design">Web Design</option>
+              <option value="3d-design">3D Design</option>
+              <option value="game-development">Game Development</option>
+            </select>
+          </div>
+
+          <fieldset class="time-limit">
+            <legend>Do you have a deadline?</legend>
+
+            <label>
+              <input type="radio" name="time_limit" value="yes" required />
+              Yes
+            </label>
+
+            <label>
+              <input type="radio" name="time_limit" value="no" />
+              No
+            </label>
+          </fieldset>
+
+          <div class="form-group">
+            <label for="details">Additional information</label>
+
+            <textarea
+              name="details"
+              id="details"
+              rows="6"
+              placeholder="Tell me about your project..."></textarea>
+          </div>
+        </fieldset>
+
+        <button type="submit">Send Message</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Abhijith V R</p>
+
+    <p>
+      <a href="https://github.com/abhijithvr45204-blip">GitHub</a>
+      |
+      <a href="https://www.linkedin.com/in/abhijithvr45204/">LinkedIn</a>
+      |
+      <a href="mailto:abhijithvr45204@gmail.com">
+        abhijithvr45204@gmail.com
+      </a>
+    </p>
+  </footer>
+</body>
+
+</html>

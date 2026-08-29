@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Abhijith V R - Business Card</title>
+
+  <meta
+    name="description"
+    content="Digital business card for Abhijith V R, Cybersecurity Analyst and Software Developer." />
+  <meta name="author" content="Abhijith V R" />
+
+  <link rel="stylesheet" href="css/index.css" />
+  <link rel="icon" href="assets/image/favicon.ico" />
+</head>
+
+<body>
+  <main>
+    <article class="business-card">
+      <img
+        src="assets/image/profile.jpeg"
+        alt="Portrait of Abhijith V R"
+        class="profile-image" />
+
+      <header class="card-header">
+        <h1 class="full-name">Abhijith V R</h1>
+        <p class="designation">Cybersecurity Analyst | Software Developer</p>
+        <p class="company">Independent</p>
+      </header>
+
+      <hr />
+
+      <section class="contact-info" aria-label="Contact information">
+        <p>
+          <strong>Email:</strong>
+          <a href="mailto:abhijithvr45204@gmail.com">
+            abhijithvr45204@gmail.com
+          </a>
+        </p>
+
+        <p>
+          <strong>Phone:</strong>
+          <a href="tel:+919496663583">+91 9496663583</a>
+        </p>
+
+        <a class="portfolio-link" href="index.php"> View Portfolio </a>
+      </section>
+
+      <hr />
+
+      <section class="social-media" aria-labelledby="social-heading">
+        <h2 id="social-heading">Connect with me</h2>
+
+        <div class="social-links">
+          <a
+            href="https://x.com/abhijithvr45204"
+            target="_blank"
+            rel="noopener noreferrer">
+            X / Twitter
+          </a>
+
+          <a
+            href="https://www.linkedin.com/in/abhijithvr45204/"
+            target="_blank"
+            rel="noopener noreferrer">
+            LinkedIn
+          </a>
+
+          <a
+            href="https://github.com/abhijithvr45204-blip"
+            target="_blank"
+            rel="noopener noreferrer">
+            GitHub
+          </a>
+        </div>
+      </section>
+    </article>
+  </main>
+</body>
+
+</html>
