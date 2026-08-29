@@ -26,8 +26,18 @@ header {
   min-height: 10vh;
 }
 
-footer{
-    min-height: 10vh;
+footer {
+  padding: 20px;
+  text-align: center;
+  background-color: var(--foreground);
+}
+footer a {
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+footer a:hover {
+  color: var(--accent);
 }
 
 #hero {
@@ -45,6 +55,14 @@ footer{
   flex-direction: column;
   align-items: center;
   gap: 20px;
+}
+
+#about {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
 }
 
 main {
@@ -78,4 +96,24 @@ nav ul {
 
 nav a {
   text-decoration: none;
+  cursor: pointer;
+}
+
+#about div a {
+  background: var(--foreground);
+  display: flex;
+  flex-direction: inherit;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  transition:
+    transform 0.3s ease,
+    background 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+#about div a:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px var(--accent);
 }
