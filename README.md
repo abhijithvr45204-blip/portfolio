@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 👋 Hi, I'm Abhijith V R
+=======
+  Abhijith V R   
+>>>>>>> b7907979202d8baacbb403b82bed1f84e6e88ddc
 
 <p align="center">
   <img src="assets/image/profile.jpeg" alt="Abhijith V R" width="180" height="180">
@@ -39,6 +43,7 @@ I enjoy combining **software development with cybersecurity** to understand not 
 
 ## 🛠️ Skills & Technologies
 
+<<<<<<< HEAD
 ### 💻 Programming & Development
 
 <p>
@@ -168,3 +173,6 @@ Visit my portfolio to learn more about my work, skills, and projects:
 <p align="center">
   <i>🔐 Security-minded. 💻 Developer-focused. 🚀 Always learning.</i>
 </p>
+=======
+[X / Twitter](https://x.com/abhijithvr45204) [LinkedIn](https://www.linkedin.com/in/abhijithvr45204/) [GitHub](https://github.com/abhijithvr45204-blip)
+>>>>>>> b7907979202d8baacbb403b82bed1f84e6e88ddc
