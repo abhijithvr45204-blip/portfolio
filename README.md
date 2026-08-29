@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-
 # 👋 Hi, I'm Abhijith V R
-
-=======
-Abhijith V R
-
-> > > > > > > b7907979202d8baacbb403b82bed1f84e6e88ddc
 
 <p align="center">
   <img src="assets/image/profile.jpeg" alt="Abhijith V R" width="180" height="180">
