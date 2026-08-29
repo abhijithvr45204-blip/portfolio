@@ -87,14 +87,6 @@ Practical software projects created to improve programming, problem-solving, bac
 
 > 📌 More projects and source code are available in my GitHub repositories.
 
----
-
-## 📊 GitHub Stats
-
-## <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithvr45204-blip&theme=transparent&hide_border=true" alt="GitHub Streak">
-
----
-
 ## 🎯 Current Focus
 
 I'm currently focusing on improving my skills in:
